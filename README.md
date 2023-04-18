@@ -3,6 +3,6 @@
 This README is for our first Group Mini-Project
 
 Participants:
-Brenda Ramirez
-Steven Link
-Justin Lyman
+/b Brenda Ramirez
+/b Steven Link
+/b Justin Lyman
